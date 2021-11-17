@@ -16,7 +16,7 @@
 
     //The Function fwrite will proccess to write the text to the text file.
     fwrite($text_file, $text);
-    //This is to finish the file
+    //This is to phase out the file
     fclose($text_file);
 
 ?>
